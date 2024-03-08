@@ -7,7 +7,6 @@ int sum1( int n){
 	}
 	return n+sum1(n-1);
 
-
 }
 
 int fact(int n){

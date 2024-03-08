@@ -53,7 +53,7 @@ bool printSbool(int ind, vector<int> &ds, int s, int sum, int arr[], int n) {
 
 int numberofsubseq(int ind, int s, int sum, int arr[], int n) {
 	if(s>sum){
-		return 0;
+		return
 	}
 	if(ind == n ) {
 		if(s == sum) { 
